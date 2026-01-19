@@ -29,7 +29,7 @@ Install required packages
 pip install -r requirements.txt
 ```
 
-Add your EPIAS Tranparency info to a .env file like below
+Add your EVDS info to a .env file like below
 ```config
 EVDS_API_KEY=your_secret_api_key
 ```

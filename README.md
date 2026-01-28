@@ -32,7 +32,7 @@ It fetches USD and EUR exchange rates (Buying/Selling) for the last 7 days, proc
 
 * Python 3.8 or higher
 * An active API Key from [TCMB EVDS](https://evds2.tcmb.gov.tr/index.php?/evds/login) (Sign up is free).
-* For more information [TCMB EVDS docs](https://evds2.tcmb.gov.tr/help/videos/EVDS_Web_Servis_Kullanim_Kilavuzu.pdf).
+* Get more information from [TCMB EVDS docs](https://evds2.tcmb.gov.tr/help/videos/EVDS_Web_Servis_Kullanim_Kilavuzu.pdf).
 
 ## ⚙️ Installation
 
